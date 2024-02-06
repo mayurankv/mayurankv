@@ -8,6 +8,8 @@ My name is Mayuran Visakan and I'm currently attending the MSc Statistics course
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=mayurankv&icon=5&color=8)
 
+---
+
 # Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
