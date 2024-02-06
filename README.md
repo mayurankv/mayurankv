@@ -1,17 +1,12 @@
 # About Me
 
-My name is Mayuran Visakan and I'm currently attending the MSc Statistics course at Imperial College London. I have a maths background with an undergraduate degree in Mathematics from the University of Cambridge. My interests include machine learning *do more*. I also love learning new
-
-## 🌐Socials
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayuranvisakan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurankv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuranvisakan)
-**Add More**
+
+My name is Mayuran Visakan and I'm currently attending the MSc Statistics course at Imperial College London. I have a maths background with an undergraduate degree in Mathematics from the University of Cambridge. My interests include machine learning *do more*. I also love learning new
 
 # Tech Stack
-
-## Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -27,6 +22,8 @@ My programming languages
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+I also have extensive experience with the markup languages $\LaTeX$ and Markdown.
+
 ![Shell Scripting](https://img.shields.io/badge/shell_scripts-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -34,7 +31,6 @@ My programming languages
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
