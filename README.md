@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Profile Views](![](https://komarev.com/ghpvc/?username=mayurankv&style=for-the-badge&color=dc143c))
+![Profile Views](https://komarev.com/ghpvc/?username=mayurankv&style=for-the-badge&color=dc143c)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayuranvisakan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurankv)
@@ -11,7 +11,6 @@
 My name is Mayuran Visakan and I'm currently attending the MSc Statistics course at Imperial College London. I have a maths background with an undergraduate degree in Mathematics from the University of Cambridge. My interests include machine learning, data science, and software development as well as mathematics, statistics and computer science. I also love learning new languages and I am currently aiming to learn C++. My favourite colour is ${\color{orange}\text{orange}}$ :\).
 
 My favourite tools are VSCode for development and Obsidian for note taking about mathematics, coding (see my Obsidian plugin [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)) and linked information, though I prefer creating documents in $\LaTeX$.
-
 
 If you appreciate any of my work and want to support me, my buy me a coffee link is below!
 
