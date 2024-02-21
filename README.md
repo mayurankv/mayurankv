@@ -1,4 +1,6 @@
-# About Me
+# Mayuran Visakan
+
+## About Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayuranvisakan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurankv)
@@ -10,7 +12,7 @@ My name is Mayuran Visakan and I'm currently attending the MSc Statistics course
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -36,7 +38,7 @@ My skillset also includes advanced knowledge of shell scripting, version control
 
 I also have extensive experience with the markup languages $\LaTeX$ and Markdown for creating professional and academic documents.
 
-## Python
+### Python
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -49,7 +51,7 @@ I also have extensive experience with the markup languages $\LaTeX$ and Markdown
 
 I have experience with a number of popular python packages including Numpy, Pandas, SciPy and SciKit-Learn. I also have experience with the machine learning libraries PyTorch and Tensorflow.
 
-# GitHub Stats
+## GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mayurankv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayurankv&theme=tokyonight&hide_border=true)
