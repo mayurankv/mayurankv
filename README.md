@@ -2,13 +2,20 @@
 
 ## About Me
 
+![Profile Views](![](https://komarev.com/ghpvc/?username=mayurankv&style=for-the-badge&color=dc143c))
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayuranvisakan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurankv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayuranvisakan)
 
-My name is Mayuran Visakan and I'm currently attending the MSc Statistics course at Imperial College London. I have a maths background with an undergraduate degree in Mathematics from the University of Cambridge. My interests include machine learning, data science, and *do more*. I also love learning new languages and I am currently aiming to learn C++.
+My name is Mayuran Visakan and I'm currently attending the MSc Statistics course at Imperial College London. I have a maths background with an undergraduate degree in Mathematics from the University of Cambridge. My interests include machine learning, data science, and software development as well as mathematics, statistics and computer science. I also love learning new languages and I am currently aiming to learn C++. My favourite colour is ${\color{orange}\text{orange}}$ :\).
 
-![Profile Views](https://visitcount.itsvg.in/api?id=mayurankv&icon=5&color=8)
+My favourite tools are VSCode for development and Obsidian for note taking about mathematics, coding (see my Obsidian plugin [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)) and linked information, though I prefer creating documents in $\LaTeX$.
+
+
+If you appreciate any of my work and want to support me, my buy me a coffee link is below!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mayurankv)
 
 ---
 
@@ -55,9 +62,3 @@ I have experience with a number of popular python packages including Numpy, Pand
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mayurankv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayurankv&theme=tokyonight&hide_border=true)
-
----
-
-If you appreciated any of my work and want to support me, my buy me a coffee link is below!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mayurankv)
