@@ -12,7 +12,7 @@ My name is Mayuran Visakan and I'm currently attending the MSc Statistics course
 
 My favourite tools are VSCode for development and Obsidian for note taking about mathematics, coding (see my Obsidian plugin [Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)) and linked information, though I prefer creating documents in $\LaTeX$ or with `pandoc`.
 
-I'm currently looking for roles in quantitative finance and software engineering. If you're currently hiring in these capcities, please check out [my CV](Mayuran Visakan CV.pdf)!
+I'm currently looking for roles in quantitative finance and software engineering. If you're currently hiring in these capcities, please check out [my CV](Mayuran%20Visakan%20CV.pdf)!
 
 If you appreciate any of my work and want to support me, my buy me a coffee link is below!
 
